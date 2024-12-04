@@ -62,8 +62,8 @@ The model architecture is verified through automated tests:
    - Checks for either Fully Connected or Global Average Pooling
    - Current implementation uses Global Average Pooling
 
-## Training Logs
-![Training log](assets/training_log.png)
+## Training Logs  
+![Training log](assets/training_log.png)  
 <details>
 <summary>Click to view training logs</summary>
 
